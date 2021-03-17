@@ -52,7 +52,7 @@ local function safeLoadstring(name, url)
 end
 
 local maid = safeLoadstring('Maid', 'https://raw.githubusercontent.com/Quenty/NevermoreEngine/a8a2d2c1ffcf6288ec8d66f65cea593061ba2cf0/Modules/Shared/Events/Maid.lua')()
-local library = safeLoadstring('UI', 'https://raw.githubusercontent.com/NotTqnvirr/uwuware-ui/main/main.lua')()
+local library = safeLoadstring('UI', 'https://pastebin.com/pm8HinC2')()
 
 local mainMaid = maid.new()
 
